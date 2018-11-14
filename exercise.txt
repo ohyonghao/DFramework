@@ -1,0 +1,16 @@
+AAEx,06/20/17,great-worked out with Mike,45,350,140
+AAEx,06/20/17,great-worked out with Mike,45,350,140
+Bike,09/17/17,Biking is fun,300,2000,198
+Elliptical,06/20/17,great-worked out with Mike,45,350,140
+Elliptical,06/20/17,great-worked out with Mike,45,350,140
+Elliptical,06/10/17,great workout,40,400,135
+Stationary Bike,06/16/17,felt good,30,200,130
+Stationary Bike,06/15/17,felt good,30,200,130
+Stationary Bike,06/16/17,felt good,30,200,130
+Stationary Bike,06/15/17,felt good,30,200,130
+Treadmill,06/12/17,doggin it,20,150,120
+Treadmill,06/12/17,doggin it,20,150,120
+Treadmill,06/12/17,doggin it,20,150,120
+Treadmill,06/12/17,doggin it,20,150,120
+ZEx,06/20/17,great-worked out with Mike,45,350,140
+ZEx,06/20/17,great-worked out with Mike,45,350,140
